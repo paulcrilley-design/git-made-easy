@@ -1,0 +1,5 @@
+# Git Quick Start
+
+git status: Shows which files have been modified, staged, or are untracked in your current working directory.
+git add: Moves your modified or new files into the staging area to prepare them for the next snapshot.
+git commit: Saves a permanent snapshot of your staged changes to your local repository's history with a descriptive message.
